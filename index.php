@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Created by Shadi -->
 <html>
 	<head>
 		<script>var number = 0; </script>
